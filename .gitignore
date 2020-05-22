@@ -1,0 +1,4 @@
+*.swp
+*~*
+xlsx2csv
+/testdata/x.csv
